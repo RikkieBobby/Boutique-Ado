@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-rikkiebobby-boutiqueado-rv154irztqe.ws-eu111.gitpod.io',
+    '8000-rikkiebobby-boutiqueado-rv154irztqe.ws-eu114.gitpod.io',
 ]
 
 
