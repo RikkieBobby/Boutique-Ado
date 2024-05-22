@@ -29,6 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-rikkiebobby-boutiqueado-qbkyln2yhp6.ws.codeinstitute-ide.net',
+    '8000-rikkiebobby-boutiqueado-nx76gktvh3u.ws.codeinstitute-ide.net',
 ]
 
 
