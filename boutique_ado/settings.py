@@ -32,7 +32,7 @@ DEBUG = False
 ALLOWED_HOSTS = [
     '8000-rikkiebobby-boutiqueado-qbkyln2yhp6.ws.codeinstitute-ide.net',
     '8000-rikkiebobby-boutiqueado-nx76gktvh3u.ws.codeinstitute-ide.net',
-    'boutiqueado-rn-9dd1f10dc111.herokuapp.com/',
+    'boutiqueado-rn-9dd1f10dc111.herokuapp.com',
     'localhost',
 ]
 
